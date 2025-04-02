@@ -16,7 +16,7 @@ I am a passionate machine learning enthusiast with a strong foundation in physic
   Explored finite-size effects and temperature biases in the 1D Ising model using Monte Carlo simulations to compare various estimators.
 
 ## Work Experience
-### Student Research Assistant - ScaDS.ai  
+### Research Assistant - ScaDS.ai  
 *July 2023 - Present*  
 - Leading neural network development for RNA secondary structure prediction using Transformers and CNN architectures.
 - Contributing to advancements in model interpretability and reliability in molecular biology.
